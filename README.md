@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 🔭 I’m currently working on
+
+Causality-enhanced machine learning.
+
+### 🌱 I’m currently learning
+
+Variational inference
