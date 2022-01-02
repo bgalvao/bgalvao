@@ -17,8 +17,14 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on
 
-Causality-enhanced machine learning.
+An open-source MLOps platform.
 
-### 🌱 I’m currently learning
+### 🌱 I should be learning...
 
-Variational inference
+- 1D Convolutional nets for time-series learning.
+- Plutus Smart Contract language.
+
+### 👯 I’m looking to collaborate on ...
+
+- Crypto
+- Continuous Deployment of ML Pipelines
