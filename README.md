@@ -1,4 +1,4 @@
-### Hi there 👋
+Economics BSc, Analytics MSc, turned Data Scientist, turned MLOps platform engineer.
 
 <!--
 **bgalvao/bgalvao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
