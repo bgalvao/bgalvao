@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 An [open-source MLOps platform](https://github.com/kintsugi-mlops/openmlops-compose).
 
-### 🌱 I should be learning...
+### 🌱 I should be learning... 🌱
 
 - 1D Convolutional nets for time-series learning.
 - Plutus Smart Contract language.
 
-### 👯 I’m looking to collaborate on ...
+### I’m looking to collaborate on ...
 
 - ~~Crypto~~ Decentralized Applications
 - Continuous Deployment of ML Pipelines
