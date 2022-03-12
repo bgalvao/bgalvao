@@ -24,3 +24,11 @@ Here are some ideas to get you started:
 - **I’m looking to collaborate on**
   - Continuous Deployment of ML Pipelines
   - ~~Crypto~~ Decentralized Applications
+
+- **Currently using**
+
+![My Skills](https://skillicons.dev/icons?i=py,docker,cloudflare,linux,bash,redis,postgres,grafana,prometheus)
+
+- **Wishing to use**
+
+![](https://skillicons.dev/icons?i=go,godot,solidity)
