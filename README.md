@@ -25,6 +25,8 @@ Here are some ideas to get you started:
   - Continuous Deployment of ML Pipelines
   - ~~Crypto~~ Decentralized Applications
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bgalvao&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 - **Currently using**
 
 ![My Skills](https://skillicons.dev/icons?i=py,docker,cloudflare,linux,bash,redis,postgres,grafana,prometheus)
